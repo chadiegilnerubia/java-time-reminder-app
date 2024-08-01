@@ -23,7 +23,7 @@ Main-Class: Log
 \*\*\*Package the JAR File
 
 ```
-jar cfm Log.jar manifest.txt Log.class
+jar cfm Log.jar manifest.txt *.class
 ```
 
 ## 2. Create an Executable (exe file for windows)
