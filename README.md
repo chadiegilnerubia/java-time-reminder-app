@@ -15,7 +15,10 @@ javac Log.java
 ```
 
 **Create a Manifest file**
-
+```
+file name : "manifest.txt"
+```
+inside the manifest file 
 ```
 Main-Class: Log
 ```
