@@ -38,7 +38,6 @@ https://launch4j.sourceforge.net/
 ```
 
 **Configure Launch4j**
-youtube link for launch4j
 ```
 https://www.youtube.com/watch?v=e3S3BOvpWic
 ```
