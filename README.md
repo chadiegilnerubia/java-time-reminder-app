@@ -38,9 +38,11 @@ https://launch4j.sourceforge.net/
 ```
 
 **Configure Launch4j**
-
+youtube link for launch4j
 ```
-youtube link : https://www.youtube.com/watch?v=e3S3BOvpWic
+https://www.youtube.com/watch?v=e3S3BOvpWic
+```
+```
 1.Open Launch4j and create a new configuration.
 2.Set the output file path and name (e.g., C:\path\to\LogApp.exe).
 3.Specify the JAR file and the main class (com.example.Log).
