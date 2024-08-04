@@ -4,7 +4,7 @@
 
 This guide outlines the steps to compile a Java application, package it into a JAR file, optionally wrap it into an executable, and configure it to start automatically on Windows.
 
-[note: Must have installed java already in your system]
+Note: Ensure that Java is already installed on your system.
 
 ## 1. Compile Your Java Application
 
