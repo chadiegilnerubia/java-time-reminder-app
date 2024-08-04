@@ -14,13 +14,13 @@ Ensure you have your Java source file (`Log.java`).
 javac Log.java
 ```
 
-\*\*Create a Manifest file
+**Create a Manifest file**
 
 ```
 Main-Class: Log
 ```
 
-\*\*\*Package the JAR File
+**Package the JAR File**
 
 ```
 jar cfm Log.jar manifest.txt *.class
@@ -28,13 +28,13 @@ jar cfm Log.jar manifest.txt *.class
 
 ## 2. Create an Executable (exe file for windows)
 
-\*\*\*Download and Install Launch4j
+**Download and Install Launch4j**
 
 ```
 https://launch4j.sourceforge.net/
 ```
 
-\*\*\*Configure Launch4j
+**Configure Launch4j**
 
 ```
 Open Launch4j and create a new configuration.
@@ -45,21 +45,21 @@ Build the executable.
 
 ## 3. Add Your Application to Startup (Windows)
 
-\*\*\*Create a Shortcut
+**Create a Shortcut**
 
 ```
 Right-click on the executable or JAR file.
 Select Create shortcut.
 ```
 
-\*\*\*Add the Shortcut to the Startup Folder
+**Add the Shortcut to the Startup Folder**
 
 ```
 Press Win + R, type shell:startup, and press Enter to open the Startup folder.
 Move or copy the shortcut into the Startup folder.
 ```
 
-\*\*\*Check Task Manager
+**Check Task Manager**
 
 ```
 Open Task Manager (Ctrl + Shift + Esc) and review the Startup tab to ensure your application is listed.
